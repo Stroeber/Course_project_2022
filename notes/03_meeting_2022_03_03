@@ -1,0 +1,15 @@
+Meeting with everyone
+
+-Steffen played around with a script to cut a long audio file with multiple
+  raincalls into smaller files with only one raincalls, so we can use it
+  as input for our model.
+-We also put up a github in which we store all the data, writing, scripts and
+  what else comes up.
+-Maik got some new data files and we agreed, that he will classify them and
+  put them into separate folders, so Steffens scripts can access them easily
+  and put the cut audio files into a seperate folder with the original file.
+-Jens will have a look at different model architectures and start building a
+  model in parallel to be more time efficient.
+-Steffen will further work on the script so it can produce the data we feed
+  into our model.
+-The next meeting is scheduled for Thursday 10.03.22 at noon.
