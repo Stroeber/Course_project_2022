@@ -1,0 +1,27 @@
+Meeting with Jens, Maik, Steffen
+
+Finding our project:
+  -We tried to narrow our choices of what we want to do for our project
+
+  -We thought about doing something with birds, since Maiks grandpa is an Ornithology
+    Professor and has a lot of self-collected data
+  -One possibility is classifying songbird dialects:
+    -A more specific variant of the BirdNet, which concentrates on classifying regional bird
+      dialects (Osnabrück has 5 Buchfinken dialects) using self-recorded data
+    -Wait for feedback from Maik, who is trying to get the data
+    -Seems a bit more risky, since we don't know how the data will look like and
+    if its usable
+
+  -Alternative is using a dataset from a kaggle competition and base our project on that
+    -More safe since we know the dataset us usable
+    -The specific challenges we are looking at are:
+      -Turtle Recall (active): Develop a model that is able to distinguish between specific
+        turtles and, if it’s a new one, give it a new name or tag.
+        https://zindi.africa/competitions/turtle-recall-conservation-challenge
+      -BirdClef (active): similar to our idea, identify bird songs, but for rare and endangered species.
+        https://www.kaggle.com/c/birdclef-2022/overview/description
+      -Herbarium (active): Challenge to build tools to identify novel plant species based on herbaria
+        https://www.kaggle.com/c/herbarium-2022-fgvc9
+
+Next steps:
+  -Meet with Tutor (17.02.2022)
