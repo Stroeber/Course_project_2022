@@ -1,0 +1,17 @@
+Meeting with Jens, Maik, Steffen
+
+Making a decision on our project:
+  -We all think using the dataset of Maiks Grandpa (Dr. Hans-Heiner Bergmann)
+  would be more interesting than just searching for a Dataset online.
+  -The problem we see is preparing the data, since the raw data, as we understood,
+  consists of mostly unlabeled .mp3, .wav and video files of different lengths.
+  -There a also multiple bird calls on a single file so we might have to single them out.
+  -Ideas on how to tackle that problem:
+    -Since the Bird calls we want to analyse should be the loudest parts of the recordings,
+    we could use a threshold to find them and cut out a second before and after that point
+    to single out the individual calls.
+    -The next step would be to label the data by hand, which Maik generously proposed to do.
+  -At this point in time we do not have the dataset, the next step is to obtain the full set,
+  so we can get a better idea of our tasks.
+  -Maik will also write an E-mail to Charlie (out Tutor) to update her on our decision and
+  maybe find a date for a meeting with her, although we do not think it is necessary at this point.
