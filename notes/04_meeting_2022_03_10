@@ -1,0 +1,27 @@
+Meeting with Jens, Maik, Steffen
+
+While Maik tried to classify the rain calls, he found problems with some
+audio files, i.e. there are some recordings where multiple birds are
+calling. In those cases we would have to manually single out the calls,
+if the clear recordings are not enough to train the network.
+
+Steffen worked on a script, that automatically single out the rain calls into
+0.25 second bits and create the respective spectrogram to feed in our network.
+
+Steffen will be on holiday until from 12.03-19.03.
+
+Jens has already looked into some possible architectures and will dive deeper
+until the 19.03. He now also has some example data to run though the NN.
+
+Maik will sort out more recordings till the same date.
+
+Our plan is to train and optimise our network until the 23.03 and get a first
+draft of our report until 27.03. Maik will also write an e-mail to Charlie since
+we are unclear of the scope of our report and we couldn't find anything specific
+about it somewhere.
+
+Maik also propoesed to go though the original paper his Grandpa wrote to get a
+better understanding of the field.
+
+Next meeting is tomorrow 11.03 at 17:30 to go through Steffens script, so the rest
+can work with it while he is gone.
